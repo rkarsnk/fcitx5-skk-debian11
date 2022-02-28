@@ -1,0 +1,46 @@
+fcitx5-skk (5.0.4-1) unstable; urgency=medium
+
+  * Team upload.
+  * New upstream release
+
+ -- Shengjing Zhu <zhsj@debian.org>  Fri, 19 Feb 2021 22:37:44 +0800
+
+fcitx5-skk (5.0.3-1) unstable; urgency=medium
+
+  * Team upload.
+  * New upstream release
+  * Update Standards-Version to 4.5.1 (no changes)
+
+ -- Shengjing Zhu <zhsj@debian.org>  Sat, 16 Jan 2021 02:57:53 +0800
+
+fcitx5-skk (5.0.2-1) unstable; urgency=medium
+
+  * Team upload.
+  * New upstream release
+  * Only install icons with org.fcitx.Fcitx5 prefix
+  * Bump fcitx5 to 5.0.2
+  * Drop fcitx5 Depends from fcitx5-skk.
+    Make it consistent with other fcitx5 methods
+
+ -- Shengjing Zhu <zhsj@debian.org>  Sat, 05 Dec 2020 23:10:54 +0800
+
+fcitx5-skk (5.0.0-1) unstable; urgency=medium
+
+  * Team upload.
+
+  [ Boyuan Yang ]
+  * debian/: Add missing build-dep
+  * fcitx5-skk: Depends on skkdic
+
+  [ Shengjing Zhu ]
+  * New upstream release
+  * Bump fcitx5 to 5.0.0
+  * Rename icon to fcitx5-skk (Closes: #970138)
+
+ -- Shengjing Zhu <zhsj@debian.org>  Tue, 10 Nov 2020 22:45:49 +0800
+
+fcitx5-skk (0.0~git20200615.d13e190-1) unstable; urgency=medium
+
+  * Initial release.
+
+ -- Boyuan Yang <byang@debian.org>  Sat, 04 Jul 2020 06:53:39 -0400

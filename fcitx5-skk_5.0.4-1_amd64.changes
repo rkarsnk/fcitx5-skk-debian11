@@ -1,0 +1,29 @@
+Format: 1.8
+Date: Fri, 19 Feb 2021 22:37:44 +0800
+Source: fcitx5-skk
+Binary: fcitx5-skk fcitx5-skk-dbgsym
+Architecture: amd64
+Version: 5.0.4-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Debian Input Method Team <debian-input-method@lists.debian.org>
+Changed-By: Shengjing Zhu <zhsj@debian.org>
+Description:
+ fcitx5-skk - Japanese SKK input engine for Fcitx5
+Changes:
+ fcitx5-skk (5.0.4-1) unstable; urgency=medium
+ .
+   * Team upload.
+   * New upstream release
+Checksums-Sha1:
+ 566f4e17e0693c6d25e7eff3730247973695f135 1287068 fcitx5-skk-dbgsym_5.0.4-1_amd64.deb
+ 0fdfecde1e15f269c370673bab9c89cdf71302e3 11687 fcitx5-skk_5.0.4-1_amd64.buildinfo
+ 716ec88a88b13407924e56d472f66df7f8109951 72988 fcitx5-skk_5.0.4-1_amd64.deb
+Checksums-Sha256:
+ 6f60d6227bddb1879376fe85ae239c3de5954207f3bd95978077ebd6f838ee12 1287068 fcitx5-skk-dbgsym_5.0.4-1_amd64.deb
+ c0e283c53499e4dedfb245f0657ab1bede97b1784fa64e741f551be988428781 11687 fcitx5-skk_5.0.4-1_amd64.buildinfo
+ ffb250f76f7d9bbf7dde8659f32f2acd2080f26567a2b5ccbbc0da68f960d8ee 72988 fcitx5-skk_5.0.4-1_amd64.deb
+Files:
+ 29b6f1ea71e7603b6fc37e177d2274d6 1287068 debug optional fcitx5-skk-dbgsym_5.0.4-1_amd64.deb
+ fe8047737f108bc084745308949c8bfd 11687 utils optional fcitx5-skk_5.0.4-1_amd64.buildinfo
+ bc46e4829f7413d65929f1d693caebf7 72988 utils optional fcitx5-skk_5.0.4-1_amd64.deb

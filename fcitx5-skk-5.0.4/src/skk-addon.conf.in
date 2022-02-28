@@ -1,0 +1,8 @@
+[Addon]
+Name=Skk
+Comment=Skk Input Method For Fcitx
+Category=InputMethod
+Library=skk
+Type=SharedLibrary
+OnDemand=True
+Configurable=True

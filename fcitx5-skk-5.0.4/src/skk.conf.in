@@ -1,0 +1,7 @@
+[InputMethod]
+Name=Skk
+Icon=fcitx-skk
+LangCode=ja
+Addon=skk
+Label=SKK
+Configurable=True
