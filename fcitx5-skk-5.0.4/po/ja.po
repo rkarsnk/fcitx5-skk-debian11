@@ -8,6 +8,7 @@
 # あわしろいくや <ikunya@gmail.com>, 2020
 # Takuro Onoue <kusanaginoturugi@gmail.com>, 2021
 # UTUMI Hirosi <utuhiro78@yahoo.co.jp>, 2021
+# KANASHIRO Akira <github_ml@rkarsnk.jp>, 2022
 #
 msgid ""
 msgstr ""
@@ -15,7 +16,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
 "POT-Creation-Date: 2021-01-06 20:24+0000\n"
 "PO-Revision-Date: 2020-05-22 22:25+0000\n"
-"Last-Translator: UTUMI Hirosi <utuhiro78@yahoo.co.jp>, 2021\n"
+"Last-Translator: KANASHIRO Akira <github_ml@rkarsnk.jp>, 2022\n"
 "Language-Team: Japanese (https://www.transifex.com/fcitx/teams/12005/ja/)\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -55,19 +56,19 @@ msgstr "形式(&T):"
 msgid "Add"
 msgstr "追加"
 
-#. i18n: file: gui/dictwidget.ui:25
+#. i18n: file: gui/dictwidget.ui:36
 msgid "Remove"
 msgstr "削除"
 
-#. i18n: file: gui/dictwidget.ui:25
+#. i18n: file: gui/dictwidget.ui:47
 msgid "Up"
 msgstr "上へ"
 
-#. i18n: file: gui/dictwidget.ui:25
+#. i18n: file: gui/dictwidget.ui:58
 msgid "Down"
 msgstr "下へ"
 
-#. i18n: file: gui/dictwidget.ui:25
+#. i18n: file: gui/dictwidget.ui:69
 msgid "Revert"
 msgstr "戻す"
 
@@ -214,7 +215,7 @@ msgstr "注釈を表示"
 
 #: src/skk.conf.in:3 src/skk-addon.conf.in:3
 msgid "Skk"
-msgstr "Skk"
+msgstr "SKK"
 
 #: src/skk-addon.conf.in:4
 msgid "Skk Input Method For Fcitx"
