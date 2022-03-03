@@ -20,56 +20,56 @@
    <item>
     <layout class="QVBoxLayout" name="verticalLayout_2">
      <item>
-      <widget class="QToolButton" name="addDictButton">
+      <widget class="QPushButton" name="addDictButton">
        <property name="text">
         <string>Add</string>
        </property>
        <property name="icon">
-        <iconset theme="list-add-symbolic">
+        <iconset theme="list-add">
          <normaloff>.</normaloff>.</iconset>
        </property>
       </widget>
      </item>
      <item>
-      <widget class="QToolButton" name="removeDictButton">
+      <widget class="QPushButton" name="removeDictButton">
        <property name="text">
         <string>Remove</string>
        </property>
        <property name="icon">
-        <iconset theme="list-remove-symbolic">
+        <iconset theme="list-remove">
          <normaloff>.</normaloff>.</iconset>
        </property>
       </widget>
      </item>
      <item>
-      <widget class="QToolButton" name="moveUpDictButton">
+      <widget class="QPushButton" name="moveUpDictButton">
        <property name="text">
         <string>Up</string>
        </property>
        <property name="icon">
-        <iconset theme="go-up-symbolic">
+        <iconset theme="go-up">
          <normaloff>.</normaloff>.</iconset>
        </property>
       </widget>
      </item>
      <item>
-      <widget class="QToolButton" name="moveDownDictButton">
+      <widget class="QPushButton" name="moveDownDictButton">
        <property name="text">
         <string>Down</string>
        </property>
        <property name="icon">
-        <iconset theme="go-down-symbolic">
+        <iconset theme="go-down">
          <normaloff>.</normaloff>.</iconset>
        </property>
       </widget>
      </item>
      <item>
-      <widget class="QToolButton" name="defaultDictButton">
+      <widget class="QPushButton" name="defaultDictButton">
        <property name="text">
         <string>Revert</string>
        </property>
        <property name="icon">
-        <iconset theme="document-revert-symbolic">
+        <iconset theme="document-revert">
          <normaloff>.</normaloff>.</iconset>
        </property>
       </widget>
